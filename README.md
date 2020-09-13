@@ -496,6 +496,9 @@ _**aws_rds.tf**_
  _**Now, initialize the Terrafrom code by running `terrafrom init` command.**_
  
  ![](images/init.png)
+ 
+ 
+ 
 
 
 _**Then, for the execution of the code, run the `terraform apply` command**_
@@ -503,17 +506,29 @@ _**Then, for the execution of the code, run the `terraform apply` command**_
 
 ![](images/3process.png)
 
+
+
+
 _**Now, after running the command apply we have to enable the Compute Engine API in GCP**_
 
 ![](images/api enable.png)
+
+
+
 
 _**The cluster in GCP**_
 
 ![](images/cluster.png)
 
+
+
+
 _**Finally, to check the Cluster info we have to check the kubectl in command shell by running `kubectl cluster-info`**_
 
 ![](images/kubectl.png)
+
+
+
 
 _You can see in this image that **Kubernetes master is running**_
 
@@ -521,21 +536,42 @@ _**Now, to check the nodes that whether they successfully created or not, we hav
 
 ![](images/nodes.png)
 
+
+
+
 _**Load Balancing**_
 
 ![](images/lb.png)
+
+
+
 
 _**The Database in AWS**_
 
 ![](images/db.png)
 
+
+
+
 _**Kudos, our wordpress is launched now**_
+
+
+
 
 ![](images/wordpress.png)
 
 ![](images/login.png)
 
+
+
+
+
+
+
 _**Here, I made a webpage with the help of wordpress**_
+
+
+
 
 ![](images/webpage.png)
 
@@ -543,3 +579,5 @@ _**Here, I made a webpage with the help of wordpress**_
 
 
 
+# Thanks for your time to read
+_**Always welcome your feedback.....**_
