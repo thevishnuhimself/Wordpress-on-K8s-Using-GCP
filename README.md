@@ -493,4 +493,9 @@ _**aws_rds.tf**_
                        }
 
 
- _**Now, initialize the Terrafrom code by running *terrafrom init* command.**_
+ _**Now, initialize the Terrafrom code by running `terrafrom init` command.**_
+
+_**Then, for the execution of the code, run the `terraform apply` command**_
+
+
+
