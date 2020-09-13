@@ -507,6 +507,10 @@ _**Now, after running the command apply we have to enable the Compute Engine API
 
 ![](images/api enable.png)
 
+_**The cluster in GCP**_
+
+![](images/cluster.png)
+
 _**Finally, to check the Cluster info we have to check the kubectl in command shell by running `kubectl cluster-info`**_
 
 ![](images/kubectl.png)
@@ -515,7 +519,25 @@ _You can see in this image that **Kubernetes master is running**_
 
 _**Now, to check the nodes that whether they successfully created or not, we have to run `kubectl get nodes -o wide` in the command shell**_
 
-![](nodes.png)
+![](images/nodes.png)
+
+_**Load Balancing**_
+
+![](images/lb.png)
+
+_**The Database in AWS**_
+
+![](images/db.png)
+
+_**Kudos, our wordpress is launched now**_
+
+![](images/wordpress.png)
+
+![](images/login.png)
+
+_**Here, I made a webpage with the help of wordpress**_
+
+![](images/webpage.png)
 
 
 
