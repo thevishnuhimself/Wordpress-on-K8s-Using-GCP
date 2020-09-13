@@ -495,27 +495,27 @@ _**aws_rds.tf**_
 
  _**Now, initialize the Terrafrom code by running `terrafrom init` command.**_
  
- ![](/images/init.png)
+ ![](images/init.png)
 
 
 _**Then, for the execution of the code, run the `terraform apply` command**_
 
 
-![](/images/3process.png)
+![](images/3process.png)
 
 _**Now, after running the command apply we have to enable the Compute Engine API in GCP**_
 
-![](/images/api enable.png)
+![](images/api enable.png)
 
 _**Finally, to check the Cluster info we have to check the kubectl in command shell by running `kubectl cluster-info`**_
 
-![](/images/kubectl.png)
+![](images/kubectl.png)
 
 _You can see in this image that **Kubernetes master is running**_
 
 _**Now, to check the nodes that whether they successfully created or not, we have to run `kubectl get nodes -o wide` in the command shell**_
 
-![](/images/cmd kubectl.png)
+![](nodes.png)
 
 
 
