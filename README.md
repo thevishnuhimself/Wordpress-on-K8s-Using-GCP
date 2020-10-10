@@ -1,4 +1,4 @@
-# Wordpress-on-K8s-Task-6
+# Wordpress-on-K8s-Using-GCP
 
 # **Description:-**
 
